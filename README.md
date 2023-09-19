@@ -1,9 +1,4 @@
 ### Hi there, this is Endy 👋
-
-![Endy's GitHub stats](https://github-readme-stats.vercel.app/api?username=endyApina&count_private=true&show_icons=true&theme=react)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endyApina&theme=react)](https://github.com/endyApina/github-readme-stats)
-
 <!--
 **endyApina/endyApina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
