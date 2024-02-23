@@ -8,6 +8,6 @@
 
 ---------------
 
-> Engineering is not about typing, it's about thinking.
+> Software Engineering is not about coding, it's about thinking and processes.
 
 ---------------
